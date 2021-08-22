@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "11af441c724abec3",
+    "type": "split",
+    "children": [
+      {
+        "id": "222d15af691548a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1st Semester/Intelligent System/Week 1 - Introduction to Knowledge-Base Intelligent Systems.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d407571469f37676",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ddd168ba6f1a009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "589cd05655eb3212",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8738ffab39696595",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61d7dfbe1e000f68",
+    "type": "split",
+    "children": [
+      {
+        "id": "48d28afff2aaf82a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60fa2891afde874c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1st Semester/Intelligent System/Week 1 - Introduction to Knowledge-Base Intelligent Systems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "222d15af691548a7",
+  "lastOpenFiles": [
+    "1st Semester/Intelligent System/Week 1 - Introduction to Knowledge-Base Intelligent Systems.md",
+    "1st Semester/Intelligent System/Syllabus.md",
+    "1st Semester/Research Methods/Week 1 - Introduction and Course Information.md",
+    "1st Semester/Research Methods/Syllabus.md",
+    "1st Semester/Intelligent System/Untitled.md"
+  ]
+}
