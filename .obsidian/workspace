@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1st Semester/Intelligent System/Week 1 - Introduction to Knowledge-Base Intelligent Systems.md",
+            "file": "1st Semester/2. Intelligent System/Syllabus.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st Semester/Intelligent System/Week 1 - Introduction to Knowledge-Base Intelligent Systems.md",
+                "file": "1st Semester/2. Intelligent System/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,15 @@
   },
   "active": "222d15af691548a7",
   "lastOpenFiles": [
-    "1st Semester/Intelligent System/Week 1 - Introduction to Knowledge-Base Intelligent Systems.md",
-    "1st Semester/Intelligent System/Syllabus.md",
+    "1st Semester/2. Intelligent System/Syllabus.md",
+    "1st Semester/2. Intelligent System/Week 1 - Introduction to Knowledge-Base Intelligent Systems.md",
+    "1st Semester/4. Wireless Network and Mobile/_Syllabus.md",
+    "1st Semester/Human and Computer/_Syllabus.md",
+    "1st Semester/Research Methods/_Syllabus.md",
     "1st Semester/Research Methods/Week 1 - Introduction and Course Information.md",
-    "1st Semester/Research Methods/Syllabus.md",
-    "1st Semester/Intelligent System/Untitled.md"
+    "1st Semester/Software Development/Untitled.md",
+    "1st Semester/Intelligent System/Syllabus.md",
+    "1st Semester/Human and Computer/Week 1 - The Hook Model.md",
+    "1st Semester/Wireless Network and Mobile/Untitled.md"
   ]
 }

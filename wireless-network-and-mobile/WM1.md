@@ -54,41 +54,41 @@ Consists of:
 #### Type of Connection or Line Configuration
 **Point-to-point**: A device in one end and other device in other end, connected each other with nothing in the middle. i.e. old T1 or E-1 connection, p2p fiber optic connection, communication between satellite and antenna, adhoc network.
 
-![[point-to-point.png]]
+![Point-to-point](attachments/point-to-point.png)
 
 **Multipoint**: Connection in a shared channel or medium, i.e. wireless network. Multipoint connection doesn't necessarily imply that everybody can talk to everyone else. 
 
-![[multipoint.png]]
+![Multipoint](attachments/multipoint.png)
 
 #### Physical Topology
 **Mesh**
 Every device has a dedicated point-to-point lin to every other device.
 
-![[Mesh.png]]
+![Mesh](attachments/Mesh.png)
 
 **Star**
 Each device has a dedicated point-to-point link only to a central controller.
 
-![[Star.png]]
+![Star](attachments/Star.png)
 
 **Tree**
 
-![[Tree.png]]
+![Tree](attachments/Tree.png)
 
 **Bus**
 Nodes are connected to the bus cable by drop line and tap
 
-![[Bus.png]]
+![Bus](attachments/Bus.png)
 
 
 **Ring**
 Each device has a dedicated point-to-point connection with only two devices on either side of it.
 
-![[Ring.png]]
+![Ring](attachments/Ring.png)
 
 **Hybrid**
 
-![[Hybrid.png]]
+![Hybrid](attachments/Hybrid.png)
 
 
 ### Categories of Networks

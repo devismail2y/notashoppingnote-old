@@ -1,7 +1,7 @@
 # Introduction and Course Information
 
 ## Research Opportunity
-If you interested in research about eye tracking and AI, you can join the [Dr. Sunu Wibirama's](https://sunu.staff.ugm.ac.id/) Lab.
+If you interested in research about eye tracking and AI, you can join [Dr. Sunu Wibirama's](https://sunu.staff.ugm.ac.id/) Lab.
 
 Requirements:
 - Passionate
@@ -63,13 +63,13 @@ The submission period opens around mid semester and the end of semester, keep up
 
 ### Grading Criteria
 Grading Criteria 1:
-![[Grading Criteria 1.jpg]]
+![Grading Criteria 1](attachments/Grading%20Criteria%201.jpg)
 
 Grading Criteria 2:
-![[Grading Criteria 2.jpg]]
+![Grading Criteria 2](attachments/Grading%20Criteria%202.jpg)
 
 Grading Criteria 3:
-![[Grading Criteria 3.jpg]]
+![Grading Criteria 3](attachments/Grading%20Criteria%203.jpg)
 Grading Example:
 1. Title and Abstract (18)
 2. Chapter 1. Introduction (15)
