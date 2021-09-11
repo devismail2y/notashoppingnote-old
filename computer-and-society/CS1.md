@@ -10,7 +10,7 @@ So you need to connect users' problem to your solution with enough frequency to 
 
 ## The Hook Canvas
 
-![The Hook Model](attachments/The%20Hook%20Model.png)
+![The Hook Model](The%20Hook%20Model.png)
 
 ### 1. Trigger
 What motivates user to use products/services?
@@ -37,7 +37,7 @@ Example:
 
 The user persuation to do actions can be modelled with formula created by B.J. Frogg.
 
-![BJ Frogg Formula](attachments/BJFroggFormula.png)
+![BJ Frogg Formula](BJFroggFormula.png)
 
 - Motivation: how big the motivation to do something?
 	- Anticipatory: looking for hopes and prevent worriness.
@@ -46,7 +46,7 @@ The user persuation to do actions can be modelled with formula created by B.J. F
 
 - Ability: User's capacity to do specific activity. This variable can be enlarged by convenience
 
-![Level of Motivation](attachments/Level%20of%20Motivation%20and%20Ability.png)
+![Level of Motivation](Level%20of%20Motivation%20and%20Ability.png)
 
 ### 3. Variable Rewards
 What users' expect after doing action?
@@ -74,4 +74,4 @@ To design a great product/service, you have to ask yourself about
 
 **Facebook hook as an example**
 
-![Facebook Hook](attachments/Facebook-hook.png)
+![Facebook Hook](Facebook-hook.png)

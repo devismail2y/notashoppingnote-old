@@ -1,11 +1,12 @@
 <!-- docs/_sidebar.md -->
 
 * [Not A Shopping Note](/)
-* [Final Assignments](/Final-Assignment.md)
+* [Final Assignments](Final-Assignments.md)
 
-* Human and Computer
-  * [Syllabus](/human-and-computer/Syllabus.md)
-  * [The Hook Model](/human-and-computer/HC1.md)
+* Computer and Society
+  * [Syllabus](computer-and-society/Syllabus.md)
+  * [The Hook Model](/computer-and-society/CS1.md)
+  * [Information Behavior](/computer-and-society/CS3.md)
 
 * Intelligent System
   * [Syllabus](/intelligent-system/Syllabus.md)
