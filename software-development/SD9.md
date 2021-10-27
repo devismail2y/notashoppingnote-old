@@ -120,7 +120,7 @@ Daily scrum (5-15 minutes in small team) discuss about:
 
 ## Scrum rules
 - No roles in scrum team, i.e. database engineer, backend developer, etc. (not explicitly stated). If the database engineer is not available today, another person should take his/her job to design the database.
-- 
+- One door service, the customer should only discuss to the product owner to communicate his/her need.
 
 ## Difference Scrum and XP
 Scrum
@@ -133,4 +133,14 @@ XP
 - Product
 - Customer is included to the team
 
+## Scrum Workshop in the Recording
+**Epic**: we move anything (vision and mission)
+**Features**: we deliver food to customer
+**Product backlog**: as the customer i want to select and search my favorite food merchants.
+**Task backlog**: Based on product backlog, 
+- Creating merchant table
+- Creating search page
+- Creating filter page
+- Creating sorting page
 
+One epic has many features, one feature has many product backlogs, one product backlog has many task backlogs.
