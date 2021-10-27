@@ -62,12 +62,14 @@ Extreme is a part of the agile process.
 
 ## XP Life Cycle
 ![](attachments/2.png)
+
 - SImplicity,
   - **YAGNI** You are not gonna need it
   - **KISS** Keep it simple
 - Communication, by including a
 
 IImplementation of XP Iteration
+
 ![](attachments/3.png)
 
 ## Planning Game

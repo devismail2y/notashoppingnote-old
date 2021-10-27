@@ -29,6 +29,7 @@ Output:
 A shared vision between a project manager and project stake holder. Communication is an only way to have shared vision.
 
 Activities Diagram
+
 ![](attachments/Pasted%20image%2020210922091852.png)
 
 1. Assess feasibility: Is it feasible. 
@@ -55,11 +56,14 @@ Activities Diagram
 Understand the complex problem:
 - needs
 - constrains/limitation: budget, time, IDE, user requirements
+
 ![](attachments/Pasted%20image%2020210922100432.png)
 
 **2. Business Modelling**
 Understand how an organization is structured and works
+
 ![](attachments/Pasted%20image%2020210922101011.png)
+
 - Understanding the current business process
 - Improving the current business process
 	- Re-engineering: finding the gap in the current business process + modification.
@@ -67,7 +71,9 @@ Understand how an organization is structured and works
 
 **3. UX Design**
 Start from UX design? because the customer can see the final product.
+
 ![](attachments/Pasted%20image%2020210922104219.png)
+
 - User profile / persona
 - Story board / usage scenario
 - Design prototype
@@ -92,7 +98,9 @@ Start from UX design? because the customer can see the final product.
 - Doing unit testing
 
 **5. Validation and Verification**
+
 ![](attachments/Pasted%20image%2020210922113144.png)
+
 - Test case, list things that you need to test based on the requirements or usage scenario.
 - Test plan, how you test?
 - Test report, the outcome
@@ -106,7 +114,9 @@ i.e. email validation:
 Verification: Verify user input with the data. I.e. verify username and password in user table.
 
 **6. Testing Activities**
+
 ![](attachments/Pasted%20image%2020210922113711.png)
+
 - Unit testing: testing functions or methods, such as buying method, posting method, display function.
 - Integration testing: testing components / modules, searching integration testing: call several methods in order to do seach: sorting, filter, and do search
 - System testing: testing system / app, testing system in a certain scenario.
@@ -114,7 +124,9 @@ Verification: Verify user input with the data. I.e. verify username and password
 - Regression testing: whether is change in codes or requirements. 
 
 **7. Deployment**
+
 ![](attachments/Pasted%20image%2020210922114002.png)
+
 Deploy in 3 environments, in order to minimize the risk (as different usage of environment), quick recovery (), 
 - Development environment, lowest risk
 - Testing environment / staging, moderate risk, reproduce bugs (isolate the error to know where is the bugs located)
