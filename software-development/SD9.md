@@ -45,6 +45,7 @@ Product owner:
 - Define vision
 - Manage development team
 - Focus on optimization of product backlog, so it meets the requirement
+- Quality assurance before the release being delivered to the customer
 
 Development team:
 - Converting program backlog into software
@@ -106,6 +107,20 @@ On meeting, the team discuss about:
 Product backlog is based on the customer need (non-technical)
 
 Sprint backlog is based on the development team (technical)
+
+Burndown chart
+![](attachments/Pasted%20image%2020211027204700.png)
+Initial product backlog is 30, as the time go, the product back log will be reduced. If there is a spike it is called anomaly. The scrum team should analyze that anomaly.
+
+Daily scrum (5-15 minutes in small team) discuss about:
+- what i i did yesterday
+- what i do today
+- what challenge i face
+
+
+## Scrum rules
+- No roles in scrum team, i.e. database engineer, backend developer, etc. (not explicitly stated). If the database engineer is not available today, another person should take his/her job to design the database.
+- 
 
 ## Difference Scrum and XP
 Scrum
