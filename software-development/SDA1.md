@@ -68,8 +68,7 @@ Agile Software Development (ASD) is software development methodology that emphas
 - In all these three categories the problems persist but the first intent is to move the people from traditional software development to Agile software development and further to distributed Agile software development.
 - This transition has to be made in such a way that the people working on traditional platforms do not face many problems.
 - Further distributed development model is difficult to build in the absence of accurate people, exact processes and right tools.
-- For this transitioning task, ownership is assigned to each team member, testing practices and development standards are implemented, effective communication channels are built which help in meetings and interactions, trainings, reviews and feedbacks
-- 
+- For this transitioning task, ownership is assigned to each team member, testing practices and development standards are implemented, effective communication channels are built which help in meetings and interactions, trainings, reviews and feedbacks.
 
 ### Framework
 ![](Framework%20from%20traditional%20to%20DASD.png)

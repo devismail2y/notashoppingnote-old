@@ -44,7 +44,7 @@ Software development is the discipline of software engineering.
 		- Quality: reliability, performance, rich user experience
 		- Extensibility: from version to version and platform to platform
 		
-	- Endeavors: action to tak to achieve an objective
+	- Endeavors: action to take to achieve an objective
 		- Team: enough people with right skill mix, work collaboratevely, and adapting changing environments.
 		- Work: bringing opportunity to reality, effort and time are limited.
 		- Way of working: team members must agree on their way of working. I.e. the practice and tools will be used.

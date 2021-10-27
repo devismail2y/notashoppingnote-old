@@ -14,7 +14,7 @@ Two exceptions to copyright are ==fair use and works== in the public domain.
 
 Not all use of another person's work is considered to be ==copyright infringement==. I.e. using works for teaching, research, or criticism would typically fall under fair use and therefore be allowed under copyright laws. When determining if it is fair to use something, one must consider:
 - the nature of the use(if it is for non profit purposes, it is more likely to be fair use than if it is to make money).
-- the nature of the work itself (factual information is more likely fall under fair use than creative works).
+- the nature of the work itself (factual information is more likely to fall under fair use than creative works).
 - the amount and significance of the work to be used (using a small portion as opposed to a large portion of the work is more likely fair use).
 - the effect of using the work on market (if the copyright owners will lose money by another person using their work, that would not be fair use).
 - if the use is fair, people may then use another person's creative work - but they should remember to cite the work properly.

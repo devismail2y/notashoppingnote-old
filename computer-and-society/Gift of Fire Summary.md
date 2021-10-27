@@ -1,6 +1,78 @@
 # GIft of Fire - Social, Legal, and Ethical Issues for Computing Technology(2012)
 
 This is a summary
+## Chapter 2: Privacy (until 2.3)
+> It is clear that we cannot expect complete privacy.
+
+Three aspects of privacy:
+1. Freedom from intrusion - being left alone.
+2. Control of information about oneself.
+3. Freedom from surveillance(from being followed, tracked, watched, and eavesdropped upon)
+
+However concern for privacy may be regarded with a suspicious question: "What do you have to hide?" The desire to keep things private does not mean we are doing anything wrong.
+
+Privacy threats categories:
+1. Intentional, institutional use of personal information. In government: law enforcement and tax collection. In private sector: marketing and decision making.
+2. Unauthorized use or release by "insiders" the people who maintain the information.
+3. Theft of information.
+4. Inadvertent leakage of information through negligence or carelessness.
+5. Our own actions.
+
+> If you live in a small town, you have little privacy, everyone knows everything about you. If you live in big city, you are more nearly anonymous. But if people knows nothing about you, they might be taking a big risk if they rent you a place, accept your credit card, lend you money, etc.
+
+Today there are thousands or millions of database containing personal information about us.
+
+### Example
+**Smartphone**
+Some Android or iPhones send location data essentially the location of nearby cell towers to Google and Apple. The location data is supposed to be anonymous, but researchers found in some cases, that it included the phone ID.
+
+A major bank announced that its free mobile banking app inadvertently stored account numbers and security access codes in a hidden file on the user's phone. If someone found the flaw, he can access that hidden file.
+
+### Risks
+1. Anything we do in cyberspace is recorded, at least briefly and linked to our computer or phone, and possibly our name.
+2. With huge amount of storage space available, companies, organizations, and governments save huge amounts of data that no one would have imagined.
+3. People often  are not aware of the collection of the information.
+4. Software is extremely complex, sometimes web managers do not even know what the software they use collects and stores.
+5. Leaks happen.
+6. A collection of many small items of information can give a fairly detailed picture of a person's life.
+7. Direct association with person's name is not essential for compromising privacy. Re-identification has become much easier due to the quantity of personal information stored and the power of data search and analysis tools.
+8. If information is on a public website, people other than those for whom it was intended will find it. It is available to everyone.
+9. Once information goes on the internet or into a database, it seems to last forever. People can make and distribute copies. It is almost impossible to remove released information from circulation.
+10. It is extremely likely that data collected for one purpose (i.e. making a phone call or responding to a search query) will find other uses (i.e. business planning, tracking, marketing, or criminal investigation).
+11. The government sometimes requests or demands sensitive personal data held by businesses and organizations.
+12. We often cannot directly protect information about ourselves. We depend on the business and organizations that manage it to protect from thieves, accidental collection, leaks, and government prying.
+
+## Terminology and Principles for Managing Personal Data
+**Informed consent and invisible information gathering.**
+**Secondary use**, the use of personal information for a purpose other than the one for which the person supplied it.
+- Data mining, analyzing masses of data to find patterns and develop new information or knowledge.
+- Matching, combining and comparing information from different databases, often using an identifier.
+- Profiling, analyzing data to determine characteristics of people most likely to engage in certain behavior.
+Give people some control over secondary uses, i.e. providing opt-in and opt-out.
+**Fair information practices**, what if the government wants your customer's data? plan ahead, do you want to challenge subpoenas, give, or inform customer? The entities that hold the data have a responsibility to those people.
+- Inform people when you collect information about them, what you collect, and how you use it.
+- Collect only the data needed.
+- Offer a way people to opt-out
+- Keep data only as long as needed.
+- Maintain accuracy of data.
+- Protect security of data (from theft and accidental leaks), provide stronger protection for sensitive data.
+- Develop policies for responding to law enforcement requests for data.
+
+
+## Noninvasive but Deeply Revealing Searches
+- Particle sniffers that detect many specific drugs and explosives 
+- Imaging systems that detects guns under clothing from a distance
+- Devices that analyze the molecular composition of cargo truck without opening the truck
+- Thermal-imaging to find heat lamps for growing marijuana
+
+These devices have obvious valuable security and law enforcement, but the technologies can be used for random searches, without search warrants or probable cause, on unsuspecting people.
+
+## Video Surveillance and Face Recognition
+Cameras alone raise some privacy issues, when combined with face recognition they raise even more.
+
+England was the first country to set up large number cameras in public to deter crime. However based on study, there are number of abuses by operators of surveillance including collecting salacious footage, such as people having sex in a car, and showing it to colleagues. But later that year, photos taken by surveillance cameras helped identify terrorists who set off bombs in the London subway.
+
+2.3
 
 ## Chapter 4: Intellectual Property
 ### Copyright
@@ -91,4 +163,8 @@ In a free society, which should win: the freedom of people to develop and use to
 
 **Evolving business model**, as DRM was ineffective against piracy, In 2007 - 2009 many publishers began selling music without DRM. Some entertainment and Web content-sharing sites negotiate contracts for the site to pay a share of its ad revenue to the entertainment companies. This may allow users to post entertainment company material without the overhead and legal liability for getting permissions. The technical details
 
+**Free Software**, supported by computer programmers who allow and encourage people to use, copy, and modify their software.
 
+To enforce openness and sharing, they provides copyright protection called *copyleft* which makes any project developed from copylefted programs, must have same copyleft (free to use, modify, and distribute). Copyleft was developed by GNU (GNU Not Unix) and implemented using the name of GPL (GNU General Public License).
+
+**Patents** differs from copyrights, they protect the invention not just a particular expression or implementation of it.
