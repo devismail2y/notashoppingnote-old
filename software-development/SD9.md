@@ -149,6 +149,6 @@ One epic has many features, one feature has many product backlogs, one product b
 ![](attachments/Pasted%20image%2020211027211907.png)
 
 Whats done mean?
-The state of done of product backlog is based on the customer
-The state of done of task backlog is based on the development team
+1. The state of done of product backlog is based on the customer.
+2. The state of done of task backlog is based on the development team.
 
