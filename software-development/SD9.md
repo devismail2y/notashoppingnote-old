@@ -109,7 +109,9 @@ Product backlog is based on the customer need (non-technical)
 Sprint backlog is based on the development team (technical)
 
 Burndown chart
+
 ![](attachments/Pasted%20image%2020211027204700.png)
+
 Initial product backlog is 30, as the time go, the product back log will be reduced. If there is a spike it is called anomaly. The scrum team should analyze that anomaly.
 
 Daily scrum (5-15 minutes in small team) discuss about:
@@ -146,6 +148,7 @@ XP
 One epic has many features, one feature has many product backlogs, one product backlog has many task backlogs.
 
 ![](attachments/Pasted%20image%2020211027211907.png)
+
 Whats done mean?
 The state of done of product backlog is based on the customer
 The state of done of task backlog is based on the development team
