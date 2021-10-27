@@ -124,7 +124,7 @@ Daily scrum (5-15 minutes in small team) discuss about:
 - No roles in scrum team, i.e. database engineer, backend developer, etc. (not explicitly stated). If the database engineer is not available today, another person should take his/her job to design the database.
 - One door service, the customer should only discuss to the product owner to communicate his/her need.
 
-## Difference Scrum and XP
+## Difference Between Scrum and XP
 Scrum
 - Project management
 - People
@@ -152,6 +152,3 @@ One epic has many features, one feature has many product backlogs, one product b
 Whats done mean?
 1. The state of done of product backlog is based on the customer.
 2. The state of done of task backlog is based on the development team.
-
-
-## Conclusion
