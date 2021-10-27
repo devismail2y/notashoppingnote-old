@@ -14,3 +14,10 @@ Scrum is the most adopted Agile Process
 
 Characteristics:
 1. Lightweight
+2. Focus on managing people rather than technical complexity or final product (XP)
+3. Generate value through adaptive solutions
+4. Iterative and incremental approach
+5. Optimize predictability and control risk
+
+Pillars:
+-
