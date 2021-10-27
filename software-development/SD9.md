@@ -72,12 +72,40 @@ Business owner:
 - Communicate with the stakeholder
 
 ## Scrum Events
-**Sprint Planning**: planning session together.
+**Sprint Planning**: planning session together. (Development team, Product owner)
 Two types of planning:
 - Release plan: when the software is released.
-- Sprint plan: when each sprint is started and ended.
-- 
+- Sprint length
+- Deliverable for each sprint
 
+**Sprint**: time box, expected output. (Development team)
+
+**Sprint Review**: reviewing sprint result with the customer. The feedback can be used to change sprint planning and the sprint itself. (The product owner and the customer)
+
+**Sprint Retrospective**: Review with the team after sprint review is closed, in order to share the changes to the team. (It should be full team).
+
+**Daily Scrum**: Scrum event that happens everyday in a sprint. (Development team, Product owner(recommended))
+
+**Scrum Artifacts**: Artifacts that related to the scrum, except the software itself:
+- Product backlog
+- Sprint backlog
+- Definition on done
+
+## Scrum process
+![](attachments/Pasted%20image%2020211027203907.png)
+
+On customer meeting, PO discuss about:
+- Urgency
+- Order based on business process, i.e. please display the debit card payment before credit card payment.
+
+On meeting, the team discuss about:
+- Complexity
+- Order based on technical issue, i.e. we can't create login page without the registration process in the first place.
+- Placement in the sprint
+
+Product backlog is based on the customer need (non-technical)
+
+Sprint backlog is based on the development team (technical)
 
 ## Difference Scrum and XP
 Scrum
