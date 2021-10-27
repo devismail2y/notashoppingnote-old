@@ -41,6 +41,44 @@ No specialization in Scrum, only three roles. Customer is excluded from the team
 Product owner:
 - Expert with the logic and customer request
 - Do meeting with the customer
+- Define user story
+- Define vision
+- Manage development team
+- Focus on optimization of product backlog, so it meets the requirement
+
+Development team:
+- Converting program backlog into software
+- The developer
+- Analysis, design code, test, documentation, and QA.
+
+Scrum master:
+- Make sure the scrum is working
+- Controls the run of project in term of scrum discipline
+- Manages relationship between product owner and the scrum team
+- Focuses on team improvement
+
+Scrum master can be the product owner, even can be the developer if the team is limited.
+
+Ideally scrum is 5-9 people
+
+## Scrum Support
+Stakeholders:
+- The most important role involved in scrum
+- Investing to the team
+- The sponsors
+
+Business owner:
+- Control budget for the team
+- Communicate with the stakeholder
+
+## Scrum Events
+**Sprint Planning**: planning session together.
+Two types of planning:
+- Release plan: when the software is released.
+- Sprint plan: when each sprint is started and ended.
+- 
+
+
 ## Difference Scrum and XP
 Scrum
 - Project management
