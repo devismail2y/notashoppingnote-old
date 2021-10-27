@@ -1,4 +1,5 @@
 # The Essence of Software Development
+Kuliah by Ridi Ferdiana
 
 ## Software Project
 **Software Project** temporary activity to produce a software or a process.

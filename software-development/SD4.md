@@ -1,4 +1,5 @@
 # Key Elements of Software Development
+Kuliah by Ridi Ferdiana
 
 ## Key Elements
 1. Business point of view (requirement & analysis)

@@ -1,4 +1,6 @@
 # Software Development Method and Practices
+Kuliah by Ridi Ferdiana
+
 
 ## Software Development
 **Definition**: detailed creation of working software through combination of coding, verification, unit testing, integration testing, and debugging. You need a predefined problem and to give solution, so you need the process in between.

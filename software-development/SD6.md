@@ -1,4 +1,7 @@
 # Extreme Programming (XP)
+Kuliah by Ridi Ferdiana
+
+
 Improving process what has already worked to an extreme level, find the good process and redo that process more.
 
 Extreme is a part of the agile process.

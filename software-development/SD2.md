@@ -1,4 +1,6 @@
 # Software Development
+Kuliah by Ridi Ferdiana
+
 Output = Software
 Coding ~ 70%
 Others ~ 30%

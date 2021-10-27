@@ -1,5 +1,6 @@
 # Understanding SCRUM Framework
 https://www.scrum.org
+Kuliah by Ridi Ferdiana
 
 ## What is Scrum
 Scrum is implemented not only in software development, but also on project management.
@@ -11,7 +12,7 @@ Choose Scrum if the project management is harder than technical difficulty.
 4. Multiple stakeholders
 
 Scrum is the most adopted Agile Process
-![](attachments/Pasted%20image%2020211027175922.png)
+![Scrum is the most adopted Agile Process](attachments/Pasted%20image%2020211027175922.png)
 
 Characteristics:
 1. Lightweight
