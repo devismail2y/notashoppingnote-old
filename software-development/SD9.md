@@ -108,8 +108,7 @@ Product backlog is based on the customer need (non-technical)
 
 Sprint backlog is based on the development team (technical)
 
-Burndown chart
-
+### Burndown chart
 ![](attachments/Pasted%20image%2020211027204700.png)
 
 Initial product backlog is 30, as the time go, the product back log will be reduced. If there is a spike it is called anomaly. The scrum team should analyze that anomaly.
