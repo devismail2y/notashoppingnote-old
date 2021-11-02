@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "92fe8f5c2c6d82ec",
+        "id": "d261f3ae8bdba162",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209
+    "width": 166
   },
   "right": {
     "id": "61d7dfbe1e000f68",
@@ -85,9 +85,10 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "92fe8f5c2c6d82ec",
+  "active": "d261f3ae8bdba162",
   "lastOpenFiles": [
     "intelligent-system/IS9.md",
+    "_sidebar.md",
     "intelligent-system/IS6.md",
     "software-development/SD9.md",
     "software-development/SD8.md",
@@ -95,7 +96,6 @@
     "software-development/SD5.md",
     "computer-and-society/Gift of Fire Summary.md",
     "computer-and-society/CS4A.md",
-    "computer-and-society/CS4.md",
-    "computer-and-society/CS2.md"
+    "computer-and-society/CS4.md"
   ]
 }
