@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d261f3ae8bdba162",
+        "id": "92fe8f5c2c6d82ec",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "intelligent-system/IS9.md",
+            "file": "software-development/SD10.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166
+    "width": 209
   },
   "right": {
     "id": "61d7dfbe1e000f68",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intelligent-system/IS9.md",
+                "file": "software-development/SD10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,17 +85,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "d261f3ae8bdba162",
+  "active": "92fe8f5c2c6d82ec",
   "lastOpenFiles": [
-    "intelligent-system/IS9.md",
-    "_sidebar.md",
-    "intelligent-system/IS6.md",
+    "software-development/SD10.md",
     "software-development/SD9.md",
     "software-development/SD8.md",
     "software-development/SD6.md",
     "software-development/SD5.md",
     "computer-and-society/Gift of Fire Summary.md",
     "computer-and-society/CS4A.md",
-    "computer-and-society/CS4.md"
+    "computer-and-society/CS4.md",
+    "computer-and-society/CS2.md",
+    "computer-and-society/CS1.md"
   ]
 }
