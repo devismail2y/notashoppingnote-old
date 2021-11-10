@@ -19,7 +19,7 @@
   * [Key Elements of Software Development](/software-development/SD4.md)
   * [The Essence of Software Development](/software-development/SD5.md)
   * [Extreme Programming \(XP\)](/software-development/SD6.md)
-  * [Understanding SCRUM Framework](/software-development/SD9.md)
+  * [Understanding SCRUM Framework](software-development/SD9_.md)
 
 * Wireless Network and Mobile
   * [Syllabus](/wireless-network-and-mobile/Syllabus.md)
