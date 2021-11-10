@@ -13,14 +13,13 @@
   * [Introduction to Knowledge-Base Intelligent Systems](/intelligent-system/IS1.md)
 
 * Software Development
-  * [Syllabus](/software-development/Syllabus.md)
   * [Software Development](/software-development/SD2.md)
   * [Software Development Method and Practices](/software-development/SD3.md)
   * [Key Elements of Software Development](/software-development/SD4.md)
   * [The Essence of Software Development](/software-development/SD5.md)
   * [Extreme Programming \(XP\)](/software-development/SD6.md)
   * [Understanding SCRUM Framework](software-development/SD9_.md)
-  * [CMMI]
+  * [CMMI](software-development/SD10.md)
 
 * Wireless Network and Mobile
   * [Syllabus](/wireless-network-and-mobile/Syllabus.md)
