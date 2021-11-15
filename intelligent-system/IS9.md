@@ -170,5 +170,25 @@ Update the weight and the threshold
 
 ![](attachments/Pasted%20image%2020211115120739.png)
 
-Final results of three-la
+Final results of three-layer network learning
 ![](attachments/Pasted%20image%2020211115120830.png)
+
+Final weight
+![](attachments/Pasted%20image%2020211115121003.png)
+
+Decision boundaries
+![](attachments/Pasted%20image%2020211115121028.png)
+
+
+## Accelerated Learning in Multilayer Neural Networks
+Multilayer networks learns much faster when sigmoidal function is represented with hyperbolic tangent.
+
+$Y^{tan h} = \frac{2a}{1+e^{-bX}} - a$
+
+where a and b are constants, suitable values for a and b are:
+a = 1.716 and b = 0.667
+
+We also may accelerate training by including **momentum term** in the delta rule: (generalized delta rule)
+$\Delta w_{jk}(p) = \beta . \Delta w_{jk}(p-1) + a . y_j(p) . \delta _k (p)$
+
+$\beta$ (hyper parameter) is a positive number ($0 \leq \beta < 1$), to limit the weight step change, and the momentum constant is set to 0.95
