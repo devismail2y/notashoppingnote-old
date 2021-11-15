@@ -159,7 +159,7 @@ Example
 ![](Pasted%20image%2020210910170707.png)
 
 Research gap should fulfill two criterias
-1. Extracted from previously publishe works : not more than 5 years prior to submission, preferably published in reputable journals.
+1. Extracted from previously published works : not more than 5 years prior to submission, preferably published in reputable journals.
 2. The gap is important to be solved, explain the implication (impact of your work toward your field) in the introduction section if you can solve the problem.
 
 

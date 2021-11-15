@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "intelligent-system/IS10.md",
+            "file": "literature-review/Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intelligent-system/IS10.md",
+                "file": "literature-review/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "92fe8f5c2c6d82ec",
   "lastOpenFiles": [
+    "literature-review/Untitled.md",
+    "research-methods/RM4.md",
+    "research-methods/RM2.md",
+    "intelligent-system/IS6.md",
     "intelligent-system/IS10.md",
     "intelligent-system/Syllabus.md",
     "intelligent-system/IS9.md",
     "intelligent-system/IS5.2.md",
     "_sidebar.md",
-    "software-development/SDA1.md",
-    "software-development/Syllabus.md",
-    "software-development/SD11_.md",
-    "software-development/SD10.md",
-    "software-development/SD9_.md"
+    "software-development/SDA1.md"
   ]
 }
