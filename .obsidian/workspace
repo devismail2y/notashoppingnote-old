@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_sidebar.md",
+            "file": "intelligent-system/IS9.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "intelligent-system/IS9.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,8 @@
   },
   "active": "92fe8f5c2c6d82ec",
   "lastOpenFiles": [
+    "intelligent-system/IS9.md",
+    "intelligent-system/IS5.2.md",
     "_sidebar.md",
     "software-development/SDA1.md",
     "software-development/Syllabus.md",
@@ -94,8 +96,6 @@
     "software-development/SD10.md",
     "software-development/SD9_.md",
     "_coverpage.md",
-    "software-development/SD8.md",
-    "software-development/SD6.md",
-    "software-development/SD5.md"
+    "software-development/SD8.md"
   ]
 }

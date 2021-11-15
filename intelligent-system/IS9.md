@@ -143,6 +143,7 @@ $w_i(p+1) = -0.1 + 0$
 
 The calculation really happens at input that produces error.
 
+## The Back-Propagation Training Algorithm
+$[-\frac{2.4}{F_i} + \frac{2.4}{F_i}]$
 
-
-
+![](attachments/Pasted%20image%2020211115115332.png)
