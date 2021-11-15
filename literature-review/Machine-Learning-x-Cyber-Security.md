@@ -1,6 +1,8 @@
 # Machine-Learning-x-Cyber-Security
 
 ## Machine Learning Based Cyber Attacks Targeting on Controlled Information: A Survey
+keywords: leak, information, train, attack
+
 ### Intro
 ML-based stealing attack: Attacker utilizes an ML algorithm to build up a computational model to disclose the controlled information, while the raw data set is collected in legitimate ways.
 
@@ -20,7 +22,14 @@ ML applied in :
 
 ![](attachments/Pasted%20image%2020211116005325.png)
 
+Methodology of ML-based stealing attack (MLBSA):
+- reconnaissance
+- data collection
+- feature engineering
+- attacking the objective
+- evaluation
 
 
-> ML reconstruction attack[34]
+
+> ML reconstruction attack[34], GAN Attack
 > Other survey: [3, 7, 31, 145]
