@@ -146,4 +146,29 @@ The calculation really happens at input that produces error.
 ## The Back-Propagation Training Algorithm
 $[-\frac{2.4}{F_i} + \frac{2.4}{F_i}]$
 
+Use sigmoid function
+![](attachments/Pasted%20image%2020211115115356.png)
+
+Calculating error
 ![](attachments/Pasted%20image%2020211115115332.png)
+
+![](attachments/Pasted%20image%2020211115115722.png)
+
+![](attachments/Pasted%20image%2020211115115753.png)
+
+Neural network
+![](attachments/Pasted%20image%2020211115120006.png)
+
+After calculating neural y3, y4, and y5 because 1 XoR 1 is 0, the error is -0.509
+![](attachments/Pasted%20image%2020211115120223.png)
+
+Calculating error gradient and applying gradient descent
+![](attachments/Pasted%20image%2020211115120451.png)
+
+Update the weight and the threshold
+![](attachments/Pasted%20image%2020211115120701.png)
+
+![](attachments/Pasted%20image%2020211115120739.png)
+
+Final results of three-la
+![](attachments/Pasted%20image%2020211115120830.png)
