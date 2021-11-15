@@ -24,12 +24,19 @@ ML applied in :
 
 Methodology of ML-based stealing attack (MLBSA):
 - reconnaissance
-- data collection
-- feature engineering
+- data collection (weaponization in cyberkill chain)
+- feature engineering (delivering the weapon to the victim, exploiting the vuln, installing malware, cnc)
 - attacking the objective
 - evaluation
 
+ML services allow access from users, only training data is considered as confidential. Stealing attack against a model [125, 131] or training samples [34, 49, 116]
+
+Using ML to infer the password from user's keystrokes [79, 122]
+
+Interacting with the operating system [79, 122,42, 152]
 
 
-> ML reconstruction attack[34], GAN Attack
+
+
+> ML reconstruction attack[34], GAN Attack, Analyzing big data and build predictive models [125, 131] using Google Prediction API or Amazon SageMaker,
 > Other survey: [3, 7, 31, 145]
