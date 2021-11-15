@@ -192,3 +192,13 @@ We also may accelerate training by including **momentum term** in the delta rule
 $\Delta w_{jk}(p) = \beta . \Delta w_{jk}(p-1) + a . y_j(p) . \delta _k (p)$
 
 $\beta$ (hyper parameter) is a positive number ($0 \leq \beta < 1$), to limit the weight step change, and the momentum constant is set to 0.95
+
+It gets good result in 126 epochs, compared to Sigmoid that needs 200+ epoch
+![](attachments/Pasted%20image%2020211115122343.png)
+
+## Adaptive Learning
+**Heuristic 1**
+If the change of the sum of squared errors has the same algebraic sign for several consequent epochs, then the learning rate parameter $\alpha$ should be increased.
+
+**Heuristic 2**
+If the algebraic sign of the change of the sum of squared errors alternates for several consequent epochs, then the learning rate parameter $\alpha$ should be decreased.
