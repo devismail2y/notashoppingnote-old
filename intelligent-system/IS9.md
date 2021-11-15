@@ -202,3 +202,9 @@ If the change of the sum of squared errors has the same algebraic sign for sever
 
 **Heuristic 2**
 If the algebraic sign of the change of the sum of squared errors alternates for several consequent epochs, then the learning rate parameter $\alpha$ should be decreased.
+
+It has many modifications
+
+It gets good result in 103 epochs
+![](attachments/Pasted%20image%2020211115125736.png)
+
