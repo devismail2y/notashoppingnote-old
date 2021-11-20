@@ -35,8 +35,10 @@ Using ML to infer the password from user's keystrokes [79, 122]
 
 Interacting with the operating system [79, 122,42, 152]
 
+ML password generation based on the semantic structure of passwords [128, 132]
 
+All of the stealing attacks involved in this survey use the supervised learning algorithm.
 
-
+N: feature engineering
 > ML reconstruction attack[34], GAN Attack, Analyzing big data and build predictive models [125, 131] using Google Prediction API or Amazon SageMaker,
 > Other survey: [3, 7, 31, 145]
