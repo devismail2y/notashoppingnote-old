@@ -61,3 +61,5 @@ i.e. scanning on cloned SCADA or systems, anomaly detection
 
 ![](attachments/Pasted%20image%2020211122154135.png)
 
+
+![](attachments/Pasted%20image%2020211122154419.png)

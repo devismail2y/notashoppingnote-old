@@ -7,11 +7,8 @@
         "id": "92fe8f5c2c6d82ec",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "computer-and-society/CS14-UAS-Project-LiteratureReview2.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-and-society/CS14-UAS-Project-LiteratureReview2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +83,15 @@
   },
   "active": "92fe8f5c2c6d82ec",
   "lastOpenFiles": [
+    "computer-and-society/CS14-UAS-Project.md",
+    "computer-and-society/CS14-UAS-Project-Key.md",
+    "computer-and-society/CS14-UAS-Project-LiteratureReview1.md",
     "computer-and-society/CS14-UAS-Project-LiteratureReview2.md",
     "intelligent-system/IS13.md",
     "literature-review/Machine-Learning-x-Cyber-Security.md",
     "research-methods/RM4.md",
     "research-methods/RM2.md",
     "intelligent-system/IS6.md",
-    "intelligent-system/IS10.md",
-    "intelligent-system/Syllabus.md",
-    "intelligent-system/IS9.md",
-    "intelligent-system/IS5.2.md"
+    "intelligent-system/IS10.md"
   ]
 }

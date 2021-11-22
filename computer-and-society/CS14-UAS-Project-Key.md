@@ -1,8 +1,13 @@
+General:
+1. Operation Technology (OT) and Information Technology (IT)
+2. 
+
+
 Cyber security:
 1. O&G supply chain and its risk
 2. Cyber attack event (introduction)
 3.  Scada, PLC, ICS
-4.  
+4.  Statistics about O&G cyber attacks
 
 
 A holistic cyber risk management can:
