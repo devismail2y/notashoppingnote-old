@@ -1,4 +1,6 @@
-## Cybersecurity
+## ### An integrated approach to combat cyber risk: Securing industrial operations in oil and gas
+https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Energy-and-Resources/intergrated-approach-combat-cyber-risk-oil-gas.pdf
+
 Characteristics of ICS
 ![](attachments/Pasted%20image%2020211122082311.png)
 
@@ -7,7 +9,6 @@ Because of IOT, oil fields, pipelines, and refineries are vulnerable to cyber at
 ICS are typically designed to fail safe, but cyber attack is more and more sophisticated.
 
 ### Based on O&G Value Chain
-https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Energy-and-Resources/intergrated-approach-combat-cyber-risk-oil-gas.pdf
 **Upstream**
 Exploration (geophysical evaluation & design, field development, and drilling operations)
 Risk: Misappropriation of commercially sensitive reservoir performance and well data -> damage to the operator's competitive position in play or field
@@ -44,3 +45,30 @@ Digitization of operational process in the O&G industry has led to new opportuni
 3. Assess the maturity of the controls environment for proactively managing these threats
 
 ![](attachments/Pasted%20image%2020211122090722.png)
+
+### Build a Unified Program
+To prevent digital disruption
+**Secure**
+Preventing system compromises through automated controls and monitoring.
+
+**Vigilant**
+Continous monitoring to determine that a system is still secure or has been compromised.
+
+**Resilient**
+Has the plans and procedures in place to identify, contain, and neutralize cyber attack in order to restore normal operations.
+
+### Key Control
+to achieve security, vigilance, and resiliency
+![](attachments/Pasted%20image%2020211122100015.png)
+
+- Awareness training
+- Access control of ICS components
+- Network security
+- Restriction of portable media through ICS environment
+- Incident response through developed policies and procedures + periodically tested
+
+### Embrace Good Governance
+1. There must be a single line of accountability
+2. ICS security under the auspices of CISO
+3. Create a clear career path
+4. Develop an awareness program to bridge the gap between IT and ICS professional.
