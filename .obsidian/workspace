@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "intelligent-system/IS13.md",
+            "file": "computer-and-society/CS14-UAS-Project-LiteratureReview2.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intelligent-system/IS13.md",
+                "file": "computer-and-society/CS14-UAS-Project-LiteratureReview2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,8 @@
   },
   "active": "92fe8f5c2c6d82ec",
   "lastOpenFiles": [
-    "intelligent-system/IS13.md",
     "computer-and-society/CS14-UAS-Project-LiteratureReview2.md",
+    "intelligent-system/IS13.md",
     "literature-review/Machine-Learning-x-Cyber-Security.md",
     "research-methods/RM4.md",
     "research-methods/RM2.md",

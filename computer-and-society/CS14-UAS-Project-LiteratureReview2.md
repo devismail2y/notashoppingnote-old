@@ -52,3 +52,12 @@ Development drilling -> higher drilling activity, expansive infrastructure and s
 the other two phases of development (field development planning and well completions) have relatively lower cyber risk.
 
 Production and abandonment
+O&G production operation ranks highest on upstream operations vulnerability, because it was not build for cybersecurity. Related to SCADA and ICS.
+
+A company needs a holistic vigilant strategy, 
+- securing every drilling asset is nearly impossible.
+- additional security features may interfere with availability (it is important for time-sensitive decision making)
+i.e. scanning on cloned SCADA or systems, anomaly detection
+
+![](attachments/Pasted%20image%2020211122154135.png)
+
