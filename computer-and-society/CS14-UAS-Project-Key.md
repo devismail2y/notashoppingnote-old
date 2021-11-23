@@ -1,3 +1,6 @@
+Nice to have:
+Blackhat O&G
+
 General:
 1. Operation Technology (OT) and Information Technology (IT)
 2. 
