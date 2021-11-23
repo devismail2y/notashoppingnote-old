@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software-development/SD12.md",
+            "file": "scholarship/2021.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software-development/SD12.md",
+                "file": "scholarship/2021.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "92fe8f5c2c6d82ec",
   "lastOpenFiles": [
+    "scholarship/2021.md",
     "software-development/SD12.md",
     "computer-and-society/CS14-UAS-Project-Key.md",
     "computer-and-society/CS14-UAS-Project-LiteratureReview2.md",
@@ -95,7 +96,6 @@
     "computer-and-society/CS14-UAS-Project.md",
     "intelligent-system/IS13.md",
     "literature-review/Machine-Learning-x-Cyber-Security.md",
-    "research-methods/RM4.md",
-    "research-methods/RM2.md"
+    "research-methods/RM4.md"
   ]
 }
