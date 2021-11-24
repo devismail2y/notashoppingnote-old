@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_sidebar.md",
+            "file": "software-development/SD13.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "software-development/SD13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,7 @@
   },
   "active": "d5e4ff2d800572e2",
   "lastOpenFiles": [
+    "software-development/SD13.md",
     "_sidebar.md",
     "wireless-network-and-mobile/WM10.md",
     "computer-and-society/CS14-UAS-Project-LiteratureReview2.md",
@@ -95,7 +96,6 @@
     "wireless-network-and-mobile/WM7.md",
     "wireless-network-and-mobile/WM4.md",
     "wireless-network-and-mobile/WM1.md",
-    "research-methods/RM7.md",
-    "software-development/SD5.md"
+    "research-methods/RM7.md"
   ]
 }
