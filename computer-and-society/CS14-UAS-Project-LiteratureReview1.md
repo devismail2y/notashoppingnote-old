@@ -52,7 +52,7 @@ To prevent digital disruption
 Preventing system compromises through automated controls and monitoring.
 
 **Vigilant**
-Continous monitoring to determine that a system is still secure or has been compromised.
+Continuous monitoring to determine that a system is still secure or has been compromised.
 
 **Resilient**
 Has the plans and procedures in place to identify, contain, and neutralize cyber attack in order to restore normal operations.
