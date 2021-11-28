@@ -23,3 +23,5 @@ A holistic cyber risk management can:
 
 ENISA has numerous publication on OT security
 NIST has a specific publication on OT security
+
+https://www.kaspersky.com/enterprise-security/ics-security
