@@ -46,8 +46,10 @@ work in the field, remote installations and directly connected to engineering in
 - sensors: temperature, pressure, humidity, sound, rfid, gas, flow, smart sensors to capture the state of components. (standardized under EU ATEX Directive 2014/34/EU - for potentially explosive atmospheres and certified using ExIA for sensor protection)
 - actuators: devices for moving or controlling mechanism or system, acts upon an environment - defined with NIST
 
-128448
+Level 1 - Intelligent control devices
+supervisory systems to control infrastructures, such as actuators and monitor component status for decision making. Such as Remote Terminal Units (RTU) and Programmable Logic Controllers (PLC)
 
-
-
+Level 2 - SCADA Control Center
+Human Machine Interface (HMI): user input system that allows a human operator to control and monitor the systems.
+ICS servers: ICS often use multiple servers for granular control and resilience. - Supervisory systems, MTU, database server
 
