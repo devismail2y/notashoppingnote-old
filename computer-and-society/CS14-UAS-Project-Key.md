@@ -20,3 +20,6 @@ A holistic cyber risk management can:
 	2. reliably of operations
 	3. creation of new value
 
+
+ENISA has numerous publication on OT security
+NIST has a specific publication on OT security

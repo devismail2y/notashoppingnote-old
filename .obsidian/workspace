@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "computer-and-society/CS14-UAS-Project-LiteratureReview2.md",
+            "file": "computer-and-society/CS14-UAS-Project-Key.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-and-society/CS14-UAS-Project-LiteratureReview2.md",
+                "file": "computer-and-society/CS14-UAS-Project-Key.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,9 +87,9 @@
   },
   "active": "d5e4ff2d800572e2",
   "lastOpenFiles": [
-    "computer-and-society/CS14-UAS-Project-LiteratureReview2.md",
-    "computer-and-society/CS14-UAS-Project-LiteratureReview1.md",
     "computer-and-society/CS14-UAS-Project-Key.md",
+    "computer-and-society/CS14-UAS-Project-LiteratureReview1.md",
+    "computer-and-society/CS14-UAS-Project-LiteratureReview2.md",
     "_coverpage.md",
     "_sidebar.md",
     "wireless-network-and-mobile/WM10.md",
