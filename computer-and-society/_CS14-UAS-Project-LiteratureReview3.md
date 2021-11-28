@@ -35,3 +35,19 @@ ICS architecture (PLC, RTU, relays,), connectivity (protocols, routing devices, 
 30 OG mostly applies automated tank gauges, smart sensors and valves to monitor or influence fuel tank inventory levels and raise alarms.
 
 Using network protocols - MITM, injection attacks eavesdropping attacks
+
+![](attachments/Pasted%20image%2020211128213654.png)
+
+![](attachments/Pasted%20image%2020211128213701.png)
+
+ICS in OG
+Level 0 - Edge devices
+work in the field, remote installations and directly connected to engineering infrastructure - to collect physical environment information or control physical engines with input.
+- sensors: temperature, pressure, humidity, sound, rfid, gas, flow, smart sensors to capture the state of components. (standardized under EU ATEX Directive 2014/34/EU - for potentially explosive atmospheres and certified using ExIA for sensor protection)
+- actuators: devices for moving or controlling mechanism or system, acts upon an environment - defined with NIST
+
+128448
+
+
+
+
