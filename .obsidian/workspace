@@ -7,8 +7,11 @@
         "id": "7dc0aa8d54955ee6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "software-development/SD13.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "software-development/SD13.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +87,15 @@
   },
   "active": "7dc0aa8d54955ee6",
   "lastOpenFiles": [
+    "software-development/SD13.md",
+    "_sidebar.md",
     "computer-and-society/_CS14-UAS-Project-LiteratureReview3.md",
     "computer-and-society/CS14-UAS-Project-LiteratureReview2.md",
     "computer-and-society/CS14-UAS-Project-LiteratureReview1.md",
     "computer-and-society/CS14-UAS-Project-Key.md",
     "_coverpage.md",
-    "_sidebar.md",
     "wireless-network-and-mobile/WM10.md",
     "software-development/SD10.md",
-    "README.md",
-    "Final-Assignments.md"
+    "README.md"
   ]
 }
