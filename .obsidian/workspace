@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "11af441c724abec3",
+    "id": "445db7d8a14f8fe8",
     "type": "split",
     "children": [
       {
-        "id": "d5e4ff2d800572e2",
+        "id": "7dc0aa8d54955ee6",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -81,7 +81,7 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "d5e4ff2d800572e2",
+  "active": "7dc0aa8d54955ee6",
   "lastOpenFiles": [
     "computer-and-society/_CS14-UAS-Project-LiteratureReview3.md",
     "computer-and-society/CS14-UAS-Project-LiteratureReview2.md",
