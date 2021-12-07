@@ -34,6 +34,8 @@
   * [op - Modern Requirement Engineering](/software-development/SD11.md)
   * [UI and UX](/software-development/SD12.md)
   * [Software Metrics](/software-development/SD13.md)
+  * []()
+  * [Global Software Development](/software-development/SD15.md)
 
 * Wireless Network and Mobile
   * [Syllabus](/wireless-network-and-mobile/Syllabus.md)
