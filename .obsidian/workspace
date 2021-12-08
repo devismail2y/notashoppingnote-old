@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "software-development/SD11.md",
+            "file": "software-development/SD14.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "software-development/SD11.md",
+                "file": "software-development/SD14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "7dc0aa8d54955ee6",
   "lastOpenFiles": [
-    "software-development/SD11.md",
-    "_sidebar.md",
-    "software-development/SD10.md",
-    "software-development/SD12.md",
-    "software-development/SD13.md",
     "software-development/SD14.md",
+    "software-development/SD13.md",
+    "intelligent-system/IS10.md",
     "software-development/SD15.md",
-    "wireless-network-and-mobile/WM11.md",
-    "wireless-network-and-mobile/WM10.md",
-    "wireless-network-and-mobile/WM1.md"
+    "software-development/SD10.md",
+    "software-development/SD11.md",
+    "software-development/SD12.md",
+    "software-development/SD9.md",
+    "_sidebar.md",
+    "_coverpage.md"
   ]
 }
