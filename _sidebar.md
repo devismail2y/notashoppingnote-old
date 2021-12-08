@@ -31,7 +31,7 @@
   * [Extreme Programming \(XP\)](/software-development/SD6.md)
   * [onprogress - Understanding SCRUM Framework](/software-development/SD9.md)
   * [CMMI](/software-development/SD10.md)
-  * [op - Modern Requirement Engineering](/software-development/SD11.md)
+  * [Modern Requirement Engineering](/software-development/SD11.md)
   * [UI and UX](/software-development/SD12.md)
   * [Software Metrics](/software-development/SD13.md)
   * []()
