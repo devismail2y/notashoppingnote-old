@@ -29,12 +29,12 @@
   * [Key Elements of Software Development](/software-development/SD4.md)
   * [The Essence of Software Development](/software-development/SD5.md)
   * [Extreme Programming \(XP\)](/software-development/SD6.md)
-  * [onprogress - Understanding SCRUM Framework](/software-development/SD9.md)
+  * [Understanding SCRUM Framework](/software-development/SD9.md)
   * [CMMI](/software-development/SD10.md)
   * [Modern Requirement Engineering](/software-development/SD11.md)
   * [UI and UX](/software-development/SD12.md)
   * [Software Metrics](/software-development/SD13.md)
-  * []()
+  * [Software Estimation](/software-development/SD14.md)
   * [Global Software Development](/software-development/SD15.md)
 
 * Wireless Network and Mobile
