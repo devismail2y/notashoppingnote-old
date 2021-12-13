@@ -42,7 +42,8 @@
   * [Introduction to Data Communication](/wireless-network-and-mobile/WM1.md)
   * [Review of Physical Layer 2](/wireless-network-and-mobile/WM4.md)
   * [802.11 WLAN](/wireless-network-and-mobile/WM7.md)
-  * [op-Wireless Personal Area Network](/wireless-network-and-mobile/WM10.md)
+  * [Wireless Personal Area Network](/wireless-network-and-mobile/WM10.md)
+  * [Infrastructure and Infrastructure Less Network](/wireless-network-and-mobile/WM11.md)
  
 * Research Methods
   * [Syllabus](/research-methods/Syllabus.md)
