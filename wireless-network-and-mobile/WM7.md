@@ -87,6 +87,7 @@ Measured in dBm or decibel miliwatts
 -80 dBm : Unreliable
 -90 dBm : Unusable
 
+Converter: https://www.rapidtables.com/electric/dBm.html
 ## Reading Assignment: 
 Chapter 17 of Stallings
 Answer 5 questions in page 552 (Review Questions)
