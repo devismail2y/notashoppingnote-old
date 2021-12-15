@@ -79,6 +79,14 @@ Lf = Loss because attenuation of the floor
 **War Driving: Real Measurement**
 ![](attachments/Pasted%20image%2020210930164943.png)
 
+## Wifi Signal Strength
+Measured in dBm or decibel miliwatts
+-30 dBm : Maximum achievable signal strength
+-67 dBm : Minimum signal strength for application that require real time delivery
+-70 dBm : Minimum signal strength for reliable packet delivery
+-80 dBm : Unreliable
+-90 dBm : Unusable
+
 ## Reading Assignment: 
 Chapter 17 of Stallings
 Answer 5 questions in page 552 (Review Questions)

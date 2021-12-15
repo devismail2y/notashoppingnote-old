@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wireless-network-and-mobile/Cheatsheet.md",
+            "file": "wireless-network-and-mobile/WM7.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wireless-network-and-mobile/Cheatsheet.md",
+                "file": "wireless-network-and-mobile/WM7.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "7dc0aa8d54955ee6",
   "lastOpenFiles": [
+    "wireless-network-and-mobile/WM7.md",
+    "wireless-network-and-mobile/WM1.md",
+    "wireless-network-and-mobile/WM4.md",
+    "wireless-network-and-mobile/Syllabus.md",
     "wireless-network-and-mobile/Cheatsheet.md",
     "wireless-network-and-mobile/WM10.md",
     "wireless-network-and-mobile/WM11.md",
     "_sidebar.md",
-    "wireless-network-and-mobile/WM7.md",
     "software-development/SD15.md",
-    "software-development/SD14.md",
-    "software-development/SD13.md",
-    "software-development/SD11.md",
-    "software-development/SD10.md"
+    "software-development/SD14.md"
   ]
 }
