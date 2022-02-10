@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "wireless-network-and-mobile/WM10.md",
+            "file": "pervasive-computing/PC1.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wireless-network-and-mobile/WM10.md",
+                "file": "pervasive-computing/PC1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "7dc0aa8d54955ee6",
   "lastOpenFiles": [
+    "pervasive-computing/PC1.md",
+    "intelligent-system/attachments/Pasted image 20210913131450.png",
     "wireless-network-and-mobile/WM10.md",
     "wireless-network-and-mobile/WM7.md",
     "wireless-network-and-mobile/WM4.md",
@@ -95,8 +97,6 @@
     "wireless-network-and-mobile/Syllabus.md",
     "wireless-network-and-mobile/Cheatsheet.md",
     "wireless-network-and-mobile/WM11.md",
-    "_sidebar.md",
-    "software-development/SD15.md",
-    "software-development/SD14.md"
+    "_sidebar.md"
   ]
 }
