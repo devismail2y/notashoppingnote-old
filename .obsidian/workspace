@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "wireless-network-and-mobile/WM10.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }

@@ -7,5 +7,7 @@
   "newLinkFormat": "relative",
   "spellcheckDictionary": [
     "subnet"
-  ]
+  ],
+  "legacyEditor": false,
+  "livePreview": true
 }
