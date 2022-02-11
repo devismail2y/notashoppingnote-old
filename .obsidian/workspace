@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pervasive-computing/PC1.md",
+            "file": "Data Mining and Data Warehouse/DM1.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pervasive-computing/PC1.md",
+                "file": "Data Mining and Data Warehouse/DM1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "7dc0aa8d54955ee6",
   "lastOpenFiles": [
+    "Data Mining and Data Warehouse/DM1.md",
     "pervasive-computing/PC1.md",
     "intelligent-system/attachments/Pasted image 20210913131450.png",
     "wireless-network-and-mobile/WM10.md",
@@ -96,7 +97,6 @@
     "wireless-network-and-mobile/WM1.md",
     "wireless-network-and-mobile/Syllabus.md",
     "wireless-network-and-mobile/Cheatsheet.md",
-    "wireless-network-and-mobile/WM11.md",
-    "_sidebar.md"
+    "wireless-network-and-mobile/WM11.md"
   ]
 }
