@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Mining and Data Warehouse/DM1.md",
+            "file": "data-mining-and-data-warehouse/DM1.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Mining and Data Warehouse/DM1.md",
+                "file": "data-mining-and-data-warehouse/DM1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "7dc0aa8d54955ee6",
   "lastOpenFiles": [
-    "Data Mining and Data Warehouse/DM1.md",
+    "data-mining-and-data-warehouse/DM1.md",
     "pervasive-computing/PC1.md",
     "intelligent-system/attachments/Pasted image 20210913131450.png",
     "wireless-network-and-mobile/WM10.md",

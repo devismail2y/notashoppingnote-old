@@ -11,3 +11,5 @@ Sources:
 
 Big data is unstructured data: plain text, images, videos.
 
+![](attachments/Pasted%20image%2020220211134156.png)
+
