@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "data-mining-and-data-warehouse/DM1.md",
+            "file": "information-security/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data-mining-and-data-warehouse/DM1.md",
+                "file": "information-security/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "7dc0aa8d54955ee6",
   "lastOpenFiles": [
+    "information-security/Untitled.md",
     "data-mining-and-data-warehouse/DM1.md",
     "pervasive-computing/PC1.md",
     "intelligent-system/attachments/Pasted image 20210913131450.png",
@@ -96,7 +97,6 @@
     "wireless-network-and-mobile/WM4.md",
     "wireless-network-and-mobile/WM1.md",
     "wireless-network-and-mobile/Syllabus.md",
-    "wireless-network-and-mobile/Cheatsheet.md",
-    "wireless-network-and-mobile/WM11.md"
+    "wireless-network-and-mobile/Cheatsheet.md"
   ]
 }
