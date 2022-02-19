@@ -61,7 +61,7 @@ THEN	the 'spill material' is 'acetic acid'
 ```
 
 ## Players in the Development Team
-![](intelligent-system/attachments/Pasted%20image%2020210920084601.png)
+![](attachments/Pasted%20image%2020210920084601.png)
 1. **Domain expert** someone that has deep knowledge in certain domain.
 2. **Knowledge engineer** designing, building, and testing expert system. He then chooses some development software/programming language
 3. **Programmer** to program and describe the domain knowledge in terms that a computer can understand.
@@ -69,11 +69,11 @@ THEN	the 'spill material' is 'acetic acid'
 5. **End-user** the user
 
 ## Structure
-![](intelligent-system/attachments/Pasted%20image%2020210920085418.png)
+![](attachments/Pasted%20image%2020210920085418.png)
 1. Production rules stored in long-term memory.
 2. Problem-specific information or facts stored in short-term memory.
 3. Reasoning/inference
-![](intelligent-system/attachments/Pasted%20image%2020210920085541.png)
+![](attachments/Pasted%20image%2020210920085541.png)
 
 The expert system is similar to human's decision making process
 
@@ -87,7 +87,7 @@ The expert system is similar to human's decision making process
 
 **User interface** communication between a suer seeking a solution to the problem and an expert system.
 
-![](intelligent-system/attachments/Pasted%20image%2020210920090050.png)
+![](attachments/Pasted%20image%2020210920090050.png)
 
 ## Forward Chaining and Backward Chaining
 Inference chain

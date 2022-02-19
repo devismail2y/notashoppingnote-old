@@ -2,7 +2,7 @@
 Nice books: Projects in Computing and Information Systems, A Student's Guide - Christian Dawson.
 
 ## Scientific Contribution
-![](Pasted%20image%2020210910154306.png)
+![](attachments/Pasted%20image%2020210910154306.png)
 You have to expand your skills hugely to contribute in scientific journal.
 
 There is overlapping in electrical, information, and biomedical. So you will find similarity when reading them.
@@ -13,14 +13,14 @@ There is overlapping in electrical, information, and biomedical. So you will fin
 - Development of **low-cost** method with equal performance of existing method. This is money, if researchers in company find this, usually they don't publish this finding.
 
 Darwin Research, for example
-![](Pasted%20image%2020210910160118.png)
+![](attachments/Pasted%20image%2020210910160118.png)
 
 ## Citation Index and Databases
 **Citation index** indexes the citations an article makes, linking the article with cited works. Designed for literature search for researchers to find subsequent articles that cite a given article. Such as:
-![](Pasted%20image%2020210910160357.png)
+![](attachments/Pasted%20image%2020210910160357.png)
 
 **Coverage vs Quality**
-![](Pasted%20image%2020210910160547.png)
+![](attachments/Pasted%20image%2020210910160547.png)
 
 Web of Science has the narrowest coverage because they have strict regulations to index scientific journals.
 
@@ -37,31 +37,31 @@ A = the number of times article published in 2019 and 2018 cited in indexed jour
 B = the number of citable items (e.g. technical papers, review papers, but not editorials and letters-to-the-Editor) published in 2019 and 2018.
 
 The 2020 impact factor = A/B
-![](Pasted%20image%2020210910162137.png)
+![](attachments/Pasted%20image%2020210910162137.png)
 The example is moderate impact factor. The wider audiences, the higher impact factor usually journals in these areas mathematics, physics, etc.
 
 **How to check impact factor**
-![](Pasted%20image%2020210910162742.png)
-![](Pasted%20image%2020210910162800.png)
-![](Pasted%20image%2020210910162819.png)
+![](attachments/Pasted%20image%2020210910162742.png)
+![](attachments/Pasted%20image%2020210910162800.png)
+![](attachments/Pasted%20image%2020210910162819.png)
 
 ## Scimago Journal Rank
 Alternative of impact factor, freely available at https://scimagojr.com
 
 calculated by Scopus citation, but there is no self-citations. So generally the score is lower than impact factor
-![](Pasted%20image%2020210910163058.png)
+![](attachments/Pasted%20image%2020210910163058.png)
 
 ## Journal Quartile 
 Rank of the journal in the multiple specific area/category.
 
-![](Pasted%20image%2020210910163323.png)
+![](attachments/Pasted%20image%2020210910163323.png)
 Q1 = green color (top 25%)
 Q2 = yellow
 Q3 = orange
 Q4 = red
 
 ## Best Practices to Identify Suitable References
-![](Pasted%20image%2020210910163437.png)
+![](attachments/Pasted%20image%2020210910163437.png)
 plus https://thinkchecksubmit.org to check whether it predatory or not.
 
 Every journal listed on the step 1, can be guaranteed as great resources, because it passed peer review before.
@@ -70,13 +70,13 @@ You should only read high quality paper, so you will get great standard on your 
 
 Open article has APC (Article Processing Charge), maybe $1000 - $6000.
 **Beware of predatory journal**
-![](Pasted%20image%2020210910163814.png)
+![](attachments/Pasted%20image%2020210910163814.png)
 1. The gmail domain
 2. Some claims that indexed by a lot of indexing list
 3. Strange promises that they will give author notification within 4-6 after submissions. The real review will take a lot of time.
 
 **Beware of predatory publisher**
-![](Pasted%20image%2020210910164200.png)
+![](attachments/Pasted%20image%2020210910164200.png)
 1. High acceptance rates
 2. They sends you an un-solicited invitation to submit an article for publication
 3. Minimal peer review
@@ -86,10 +86,10 @@ Open article has APC (Article Processing Charge), maybe $1000 - $6000.
 7. No archiving policy
 
 Another characteristics:
-![](Pasted%20image%2020210910164652.png)
+![](attachments/Pasted%20image%2020210910164652.png)
 
 To check whether your target journal is predatory or not? https://thinkchecksubmit.org
-![](Pasted%20image%2020210910164721.png)
+![](attachments/Pasted%20image%2020210910164721.png)
 
 Types of predatory journals:
 
@@ -104,10 +104,10 @@ Types of predatory journals:
 (Das, S, Chatterjee, SS (2017) Say no to evil: Predatory journals, what we should know. Asian Journal of Psychiatry 28: 161–162.)
 
 ## Steps of Academic Research
-![](Pasted%20image%2020210910164919.png)
+![](attachments/Pasted%20image%2020210910164919.png)
 
 Reading skill level
-![](Pasted%20image%2020210910164949.png)
+![](attachments/Pasted%20image%2020210910164949.png)
 
 Magister level, you should read 70-200 papers.
 
@@ -119,7 +119,7 @@ As master student, in sequence
 4. Result in text.
 5. Introduction
 6. Methods, in case you are very interested with the context, you can read this section.
-![](Pasted%20image%2020210910165511.png)
+![](attachments/Pasted%20image%2020210910165511.png)
 
 If you create papers, the figures, tables results should be self-sufficient and self-contained.
 
@@ -139,24 +139,24 @@ Finally, ask yourself, is this paper is key papers (relevant) or not? If it is v
 3. Date of publication: whether the papers are new (<5years)
 
 5 Parts of abstract, you can find the relevancy.
-![](Pasted%20image%2020210910170046.png)
+![](attachments/Pasted%20image%2020210910170046.png)
 
 **Categorize your references**
 - Not relevant but widening your knowledge in your field, use speed reading and stop, You may need these papers later in discussion section of your publication.
 - Highly relevant (key papers), use speed reading and continue with deep reading, these are papers that construct mostly direction of your research.
 
 **Deep reading**, read and analyze the paper
-![](Pasted%20image%2020210910170404.png)
+![](attachments/Pasted%20image%2020210910170404.png)
 
 ## Identifying Research Gap
 Scientific gap is the things that haven't been found in your key paper.
-![](Pasted%20image%2020210910170535.png)
+![](attachments/Pasted%20image%2020210910170535.png)
 
 Comparative table for finding research gap
-![](Pasted%20image%2020210910170615.png)
+![](attachments/Pasted%20image%2020210910170615.png)
 
 Example
-![](Pasted%20image%2020210910170707.png)
+![](attachments/Pasted%20image%2020210910170707.png)
 
 Research gap should fulfill two criterias
 1. Extracted from previously published works : not more than 5 years prior to submission, preferably published in reputable journals.

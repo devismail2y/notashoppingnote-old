@@ -31,28 +31,28 @@ Calculating initial value
 and so on
 
 Select 3 best individuals as parents for mating to generate new individuals.
-![](Pasted%20image%2020210913131734.png)
+![](attachments/Pasted%20image%2020210913131734.png)
 
 **Crossover**
-![](Pasted%20image%2020210913131816.png)
+![](attachments/Pasted%20image%2020210913131816.png)
 
 
 **Mutation**, you can choose which gene/genes got the mutation. In this example we define 5th gene of the children will get mutated by dividing by 2.
-![](Pasted%20image%2020210913131851.png)
+![](attachments/Pasted%20image%2020210913131851.png)
 
 
 Parents (old individuals) and children (new individuals)
 ![](attachments/Pasted%20image%2020211010170000.png)
 
 **Generation 1**
-![](Pasted%20image%2020210913132228.png)
+![](attachments/Pasted%20image%2020210913132228.png)
 
 Do the same thing to create generation 2
 ![](attachments/Pasted%20image%2020211010170052.png)
 ![](attachments/Pasted%20image%2020211010170031.png)
 
 **Generation 2**
-![](Pasted%20image%2020210913132658.png)
+![](attachments/Pasted%20image%2020210913132658.png)
 
 So, if you want to get the best result, you run the algorithm again and again.
 It still use decimal number not binary number.

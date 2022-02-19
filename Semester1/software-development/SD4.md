@@ -5,7 +5,7 @@ Kuliah by Ridi Ferdiana
 1. Business point of view (requirement & analysis)
 2. Technical Point of view (design, development, deployment)
 
-![](Pasted%20image%2020210908154242.png)
+![](attachments/Pasted%20image%2020210908154242.png)
 ## Technology Consideration
 Technology as the enablers
 1. Is your customer already has legacy system (existing system)?
@@ -17,7 +17,7 @@ Technology as the enablers
 
 The most important: is your customer agree with your technology choice?
 
-![](Pasted%20image%2020210908154651.png)
+![](attachments/Pasted%20image%2020210908154651.png)
 
 ## From Business Problems to Requirement
 
@@ -29,11 +29,11 @@ Buy or build?
 - Do customer has the money?
 - If you buy, can you integrate it to legacy system? Actually if you buy, you buy for the customer support (i.e. if you find bugs, or difficulties.), updates, etc. It will be helpful for long term run.
 
-![](Pasted%20image%2020210908162224.png)
+![](attachments/Pasted%20image%2020210908162224.png)
 
 **From analysis to design**
 
-![](Pasted%20image%2020210908162730.png)
+![](attachments/Pasted%20image%2020210908162730.png)
 
 Interoperability, capable to communicate between different systems.
 
@@ -95,14 +95,14 @@ Now we also have the integrated tools for DevOps: Jira, Azure DevOps, etc.
 	- Integrated development tools
 
 ## From Development to Deployment
-![](Pasted%20image%2020210908170749.png)
+![](attachments/Pasted%20image%2020210908170749.png)
 
 **Release management**
 Publishing tools = converting source code to binary that specific to certain platform.
 Configuration management = help you deploy the code to existing infrastructure using automation, such as IAAC
 
 ## From Deployment to Maintenance
-![](Pasted%20image%2020210908171015.png)
+![](attachments/Pasted%20image%2020210908171015.png)
 
 **Commerce system**
 Perpetual: one term payment for long term need.
@@ -115,7 +115,7 @@ Freemium payment system:
 3. Micro transaction (i.e. in online game)
 
 ## Developers Learning Path
-![](Pasted%20image%2020210908171419.png)
+![](attachments/Pasted%20image%2020210908171419.png)
 
 1. If you want to build web app, learn about web app first and current technology
 2. Programming language based on the web app
@@ -125,7 +125,7 @@ Freemium payment system:
 
 
 ## Key Contemporer Technology
-![](Pasted%20image%2020210908171846.png)
+![](attachments/Pasted%20image%2020210908171846.png)
 
 
 ## Addition 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "seminar 1/SM1.md",
+            "file": "PC4.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "seminar 1/SM1.md",
+                "file": "PC4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "7dc0aa8d54955ee6",
   "lastOpenFiles": [
-    "seminar 1/SM1.md",
-    "information-security/Untitled.md",
-    "data-mining-and-data-warehouse/DM1.md",
-    "pervasive-computing/PC1.md",
-    "intelligent-system/attachments/Pasted image 20210913131450.png",
-    "wireless-network-and-mobile/WM10.md",
-    "wireless-network-and-mobile/WM7.md",
-    "wireless-network-and-mobile/WM4.md",
-    "wireless-network-and-mobile/WM1.md",
-    "wireless-network-and-mobile/Syllabus.md"
+    "PC4.md",
+    "Semester2/pervasive-computing/PC1.md",
+    "Semester2/seminar 1/SM1.md",
+    "Semester2/information-security/Untitled.md",
+    "Semester2/data-mining-and-data-warehouse/DM1.md",
+    "Semester1/intelligent-system/attachments/Pasted image 20210913131450.png",
+    "Semester1/wireless-network-and-mobile/WM10.md",
+    "Semester1/wireless-network-and-mobile/WM7.md",
+    "Semester1/wireless-network-and-mobile/WM4.md",
+    "Semester1/wireless-network-and-mobile/WM1.md"
   ]
 }

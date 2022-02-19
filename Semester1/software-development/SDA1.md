@@ -48,7 +48,7 @@ Agile Software Development (ASD) is software development methodology that emphas
 - Reduced cost, development time, enhanced quality
 - But at the cost of team dynamics and certain dependencies problem.
 - 
-![](Agile%20vs%20Distributed%20Agile.png)
+![](attachments/Agile%20vs%20Distributed%20Agile.png)
 
 ## Problems
 - Communication between members is crucial, so leading the team is the main concern. -> designating a leader at every location can allow an helpful and alert communication to achieve goals. The onsite leader is supposed to direct the onsite team by communication with them and can be set as a point of contact for the main project and the client. The leader will be liable for running the communication channels and make sure the team is in receipt of course of action appropriately on the deliverables.
@@ -71,7 +71,7 @@ Agile Software Development (ASD) is software development methodology that emphas
 - For this transitioning task, ownership is assigned to each team member, testing practices and development standards are implemented, effective communication channels are built which help in meetings and interactions, trainings, reviews and feedbacks.
 
 ### Framework
-![](Framework%20from%20traditional%20to%20DASD.png)
+![](attachments/Framework%20from%20traditional%20to%20DASD.png)
 - authentication for trustworthiness of the users.
 - auto check to know whether the devices are lying in same timezone, if not, time zone adjustment algorithm are applied to reset the clocks of all active users.
 - prioritize the task set which exists in the form of user stories

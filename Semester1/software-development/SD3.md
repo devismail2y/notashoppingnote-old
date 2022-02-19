@@ -5,14 +5,14 @@ Kuliah by Ridi Ferdiana
 ## Software Development
 **Definition**: detailed creation of working software through combination of coding, verification, unit testing, integration testing, and debugging. You need a predefined problem and to give solution, so you need the process in between.
 
-![](Pasted%20image%2020210908102130.png)
+![](attachments/Pasted%20image%2020210908102130.png)
 
 Differentiate requirement and problem.
 **Requirements** = Is something you have to do. Such as, to graduate you ==need== to finish your thesis. Need to is word for requirement.
 **Problems** = what gives you difficulties, i.e. choosing topic.
 
 Thesis generator software: requirement, problem, and output (solution).
-![](Pasted%20image%2020210908102650.png)
+![](attachments/Pasted%20image%2020210908102650.png)
 
 **Software development**: you have predefined problem.
 **Software engineering**: applying engineering principles to software development.
@@ -30,7 +30,7 @@ Software development is the discipline of software engineering.
 > Go-Jek is software engineering, Go-Pay is the software development.
 
 ## Software Engineering Basics
-![](Pasted%20image%2020210908114113.png)
+![](attachments/Pasted%20image%2020210908114113.png)
 
 - Customers: users of our system or people that are purchasing this system for the users.
 	- Opportunity: chance to do something to provide value to customers, including fixing an existing problem via this software system.
@@ -58,7 +58,7 @@ In order to be more productive: 4 component in software engineering framework (S
 3. software practices: best practices and technical approach.
 4. software tools: as enabler to make developer more productive.
 
-![](Pasted%20image%2020210908104519.png)
+![](attachments/Pasted%20image%2020210908104519.png)
 
 ## Question in Software Development
 1. What tasks do we need perform? -> checklist to create quality software in structured way.
@@ -79,10 +79,10 @@ Would you use the same approach to build cities, house, hospital, and cat house?
 
 Why the name is not SELC? -> Completely operational structure and predefined step.
 SDLC describes WHO does WHAT, HOW and WHEN to perform the ACTIVITIES that are needed to achieve the goal: Implement a Software System.
-![](Pasted%20image%2020210908105556.png)
+![](attachments/Pasted%20image%2020210908105556.png)
 
 **Small program development**
-![](Pasted%20image%2020210908111133.png)
+![](attachments/Pasted%20image%2020210908111133.png)
 
 ## Waterfall
 **Waterfall**, sequential, most famous and well defined process
@@ -92,7 +92,7 @@ SDLC describes WHO does WHAT, HOW and WHEN to perform the ACTIVITIES that are ne
 
 Waterfall is implementation of formal software process, but it is not formal software process.
 
-![](Pasted%20image%2020210908111152.png)
+![](attachments/Pasted%20image%2020210908111152.png)
 
 ==Requirements==: understand and describe what to build.
 ==Analysis and design==: study the problem and design a solution that will fulfill the requirements.
@@ -109,7 +109,7 @@ Waterfall problem, dynamic issue especially when it has any changes and bugs, it
 ## Dynamic Models
 **Dynamic models**, iterative and incremental approach. This facilitates direct work and solving the delay problem in waterfall.
 > Iterative: do similar activity inside the time box. For example each iterative has time box of 2 months before the increment.
-![](Pasted%20image%2020210908112604.png)
+![](attachments/Pasted%20image%2020210908112604.png)
 
 Characteristics:
 - Usually time boxed iterations are used and is better to add new iterations than extending the duration of an iteration.
@@ -149,41 +149,41 @@ Practices:
 8. Etc
 
 Formal software process
-![](Pasted%20image%2020210908115628.png)
+![](attachments/Pasted%20image%2020210908115628.png)
 
 Agile manifesto
-![](Pasted%20image%2020210908120001.png)
+![](attachments/Pasted%20image%2020210908120001.png)
 
 ## Closing
 **Process Pattern**
-![](Pasted%20image%2020210908120119.png)
+![](attachments/Pasted%20image%2020210908120119.png)
 
 **Simple Process**
 Personal Software Process (PSP)by Cernigemellon University
 Developing software by himself, It is between agile and formal (hybrid).
-![](Pasted%20image%2020210908120333.png)
+![](attachments/Pasted%20image%2020210908120333.png)
 
 **Waterfall**
-![](Pasted%20image%2020210908120833.png)
+![](attachments/Pasted%20image%2020210908120833.png)
 
 **Iterative Waterfall**
-![](Pasted%20image%2020210908121135.png)
+![](attachments/Pasted%20image%2020210908121135.png)
 
 **V- Model Process**
-![](Pasted%20image%2020210908120905.png)
+![](attachments/Pasted%20image%2020210908120905.png)
 
 **Prototyping Process**
-![](Pasted%20image%2020210908121058.png)
+![](attachments/Pasted%20image%2020210908121058.png)
 
 **Incremental Process** -> CI/CD
-![](Pasted%20image%2020210908121207.png)
+![](attachments/Pasted%20image%2020210908121207.png)
 
 **Spiral Model** -> iteration model with delivered output
-![](Pasted%20image%2020210908121241.png)
+![](attachments/Pasted%20image%2020210908121241.png)
 
 **Capability Maturity Model (CMM)**
 To help a software organization define its level of maturity in software development.
-![](Pasted%20image%2020210908121440.png)
+![](attachments/Pasted%20image%2020210908121440.png)
 
 
 
