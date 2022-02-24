@@ -46,7 +46,6 @@
 ![](attachments/Pasted%20image%2020220224140837.png)
 
 ### Comparison
-
 ![](attachments/Pasted%20image%2020220224141014.png)
 
 Suitability of Existing Models for Pervasive System
@@ -54,3 +53,18 @@ Suitability of Existing Models for Pervasive System
 - Bluetooth has a peer-to-peer approach
 - Jini and SLP relies on a central registry
 
+## Abstract Layered Architecture
+![](attachments/Pasted%20image%2020220224141723.png)
+
+Using Semantic in Context Modeling to Enhance Service Discovery
+![](attachments/Pasted%20image%2020220224141931.png)
+
+CoxEI Service Discovery
+![](attachments/Pasted%20image%2020220224142112.png)
+
+## Conclusion
+- Pervasive systems do not only represent a set of mobile devices but also an environment that offers services to the users.
+
+## Questions
+
+![](attachments/Pasted%20image%2020220224142508.png)
