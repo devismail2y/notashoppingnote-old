@@ -68,3 +68,7 @@ CoxEl Service Discovery
 ## Questions
 
 ![](attachments/Pasted%20image%2020220224142508.png)
+
+A4, assignment in teams.
+Presenter send the slide.
+Deadline: 2 March 2022 (6 days)
