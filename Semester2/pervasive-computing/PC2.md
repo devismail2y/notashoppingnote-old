@@ -14,9 +14,43 @@
 //
 
 ## Service Discovery
-JINI, 
+### JINI
 - service oriented framework for constructing distributed system.
 - enable users to share services and resources over network.
 
+![](attachments/Pasted%20image%2020220224135932.png)
 
+### Service Location Protocol (SLP)
+- By IETF (The Internet Engineering Task Force)
+- Scalable framework for the discovery and selection //
+- The components //
+	- User Agent
+	- Service Agent
+	- Directory Agent
+
+![](attachments/Pasted%20image%2020220224140300.png)
+
+### Universal Plug and Play (UPnP)
+- //
+- Offer seamless connectivity to devices within a network
+- The components
+	- Devices
+	- Control point
+
+![](attachments/Pasted%20image%2020220224140603.png)
+
+### Bluetooth SDP
+- Used by Bluetooth client application in order to discover the available service in Bluetooth services.
+- Establish the searching mechanism for services.
+
+![](attachments/Pasted%20image%2020220224140837.png)
+
+### Comparison
+
+![](attachments/Pasted%20image%2020220224141014.png)
+
+Suitability of Existing Models for Pervasive System
+- Pervasive systems are heterogeneous and dynamic networks with limited devices.
+- Bluetooth has a peer-to-peer approach
+- Jini and SLP relies on a central registry
 
