@@ -59,7 +59,7 @@ Suitability of Existing Models for Pervasive System
 Using Semantic in Context Modeling to Enhance Service Discovery
 ![](attachments/Pasted%20image%2020220224141931.png)
 
-CoxEI Service Discovery
+CoxEl Service Discovery
 ![](attachments/Pasted%20image%2020220224142112.png)
 
 ## Conclusion
