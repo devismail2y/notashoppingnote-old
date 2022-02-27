@@ -23,8 +23,39 @@ In order to implement relationship between documents in MongoDB.
 
 
 ### One to One Relationship
-Konversi dari relational ke no SQL. Based on example below, the zip will be the master entity and person will be the slave, because person table is inside the zip bracket.
-![](attachments/Pasted%20image%2020220227153145.png)
+
+For example this patron and address relationship, the address belongs to patron. In the normalized data model, the address document contains a reference to the patron document.
+```json
+// patron document
+{
+   _id: "joe",
+   name: "Joe Bookreader"
+}
+
+// address document
+{
+   patron_id: "joe", // reference to patron document
+   street: "123 Fake Street",
+   city: "Faketon",
+   state: "MA",
+   zip: "12345"
+}
+```
+
+If the address data is frequently retrieved with the name information, then with referencing, your application needs to issue multiple queries to resolve the reference. This is data model that embed address data in the patron data.
+```json
+{
+   _id: "joe",
+   name: "Joe Bookreader",
+   address: {
+              street: "123 Fake Street",
+              city: "Faketon",
+              state: "MA",
+              zip: "12345"
+            }
+}
+```
+
 
 ### One to Many Relationship
 Publisher is the master, and book is the slave, because the book is the transactional data. Embedding using equal operator.
