@@ -5,24 +5,19 @@
 
 ### Embedding and Linking
 In order to implement relationship between documents in MongoDB.
-
-Embedding (denormalized model), capture relationship between data by storing related data in a single document structure. This is the default and primary relationship model. Because No-SQL document database means to eliminates Joins by De-normalizing data and provide efficient mechanism. Benefits of embedding: fewer queries and updates to complete common operations.
-
-Linking (indexed, normalized, and referenced)
-
-Example: Post can have one or more comments.
-
 ![](attachments/Pasted%20image%2020220227154704.png)
 
-The reason of using linked relationship:
-- Access linked data in an independent manner (search all comments from a specific author, regardless the post).
-- Avoid repetitions, i.e. relationship between a comment and its author (it repeats several times the same value), we can map the author as a separate, referred document.
-- High Frequency for access or update of linked data: accessing/updating a document without updating its parent will enhance performance.
-- Privacy & Security motifs may impose to split the data into different documents
-- Mongo 1.8 has 16MB limit of single document.
+**Embedded** (denormalized model), capture relationship between data by storing related data in a single document structure. This is the default and primary relationship model. Because No-SQL document database means to eliminates Joins by De-normalizing data and provide efficient mechanism. Benefits of embedding: fewer queries and updates to complete common operations. Generally, use this if:
+- You have contains relationship between entities.
+- You have one-to-many relationship between entities
 
-Negative side of linked relationship
-- Lose consistency of Writings and Readings in one-to-one and one-to-many relationships.
+![](attachments/Pasted%20image%2020220227185433.png)
+
+**Linked** (indexed, normalized, and referenced), describe relationships using references between documents.  Use this if:
+- When embedding would result in duplication of data but would not provide sufficient read performance advantages to outweigh the implications of the duplication
+- To represent more complex many-to-many relationships.
+- To model large hierarchical data sets.
+![](attachments/Pasted%20image%2020220227185631.png)
 
 
 
