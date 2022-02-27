@@ -5,11 +5,24 @@
 
 ### Embedding and Linking
 In order to implement relationship between documents in MongoDB.
-- Embedding
+- Embedding, the default and primary relationship model. Because No-SQL document database means to eliminates Joins by De-normalizing data and provide efficient mechanism.
 - Linking (indexed, normalized, and referenced)
 
+Example: Post can have one or more comments.
 
-![](attachments/Pasted%20image%2020220227154343.png)
+![](attachments/Pasted%20image%2020220227154704.png)
+
+The reason of using linked relationship:
+- Access linked data in an independent manner (search all comments from a specific author, regardless the post).
+- Avoid repetitions, i.e. relationship between a comment and its author (it repeats several times the same value), we can map the author as a separate, referred document.
+- High Frequency for access or update of linked data: accessing/updating a document without updating its parent will enhance performance.
+- Privacy & Security motifs may impose to split the data into different documents
+- Mongo 1.8 has 16MB limit of single document.
+
+Negative side of linked relationship
+- Lose consistency of Writings and Readings in one-to-one and one-to-many relationships.
+
+
 
 
 ### One to One Relationship
