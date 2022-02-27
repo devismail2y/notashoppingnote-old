@@ -5,8 +5,10 @@
 
 ### Embedding and Linking
 In order to implement relationship between documents in MongoDB.
-- Embedding, the default and primary relationship model. Because No-SQL document database means to eliminates Joins by De-normalizing data and provide efficient mechanism.
-- Linking (indexed, normalized, and referenced)
+
+Embedding (denormalized model), capture relationship between data by storing related data in a single document structure. This is the default and primary relationship model. Because No-SQL document database means to eliminates Joins by De-normalizing data and provide efficient mechanism. Benefits of embedding: fewer queries and updates to complete common operations.
+
+Linking (indexed, normalized, and referenced)
 
 Example: Post can have one or more comments.
 
