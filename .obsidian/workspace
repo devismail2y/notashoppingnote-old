@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Semester2/data-mining-and-data-warehouse/DM3.md",
+            "file": "Semester2/interoperability/IO1.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209
+    "width": 209,
+    "collapsed": true
   },
   "right": {
     "id": "61d7dfbe1e000f68",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester2/data-mining-and-data-warehouse/DM3.md",
+                "file": "Semester2/interoperability/IO1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +89,8 @@
   },
   "active": "7dc0aa8d54955ee6",
   "lastOpenFiles": [
+    "Semester2/interoperability/IO1.md",
+    "Semester2/interoperability/IO7.md",
     "Semester2/data-mining-and-data-warehouse/DM3.md",
     "Semester2/pervasive-computing/PC7.md",
     "Semester2/data-mining-and-data-warehouse/DM5.md",
@@ -95,8 +98,6 @@
     "Semester2/pervasive-computing/PC2.md",
     "Semester2/pervasive-computing/PC1.md",
     "PC4.md",
-    "Semester2/seminar 1/SM1.md",
-    "Semester2/information-security/Untitled.md",
-    "Semester1/intelligent-system/attachments/Pasted image 20210913131450.png"
+    "Semester2/seminar 1/SM1.md"
   ]
 }
