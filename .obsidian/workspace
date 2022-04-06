@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Semester2/pervasive-computing/PC1.md",
+            "file": "Semester2/pervasive-computing/PC7.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester2/pervasive-computing/PC1.md",
+                "file": "Semester2/pervasive-computing/PC7.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "7dc0aa8d54955ee6",
   "lastOpenFiles": [
+    "Semester2/pervasive-computing/PC7.md",
     "Semester2/pervasive-computing/PC1.md",
     "Semester2/pervasive-computing/PC2.md",
     "Semester2/interoperability/IO6.md",
@@ -96,7 +97,6 @@
     "Semester2/interoperability/IO3.md",
     "Semester2/interoperability/IO2.md",
     "Semester2/interoperability/IO1.md",
-    "Semester2/interoperability/IO7.md",
-    "Semester2/data-mining-and-data-warehouse/DM3.md"
+    "Semester2/interoperability/IO7.md"
   ]
 }
