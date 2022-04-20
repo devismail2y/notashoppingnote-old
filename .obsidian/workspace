@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Semester2/pervasive-computing/PC2.md",
+            "file": "Semester2/information-security/IS8.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester2/pervasive-computing/PC2.md",
+                "file": "Semester2/information-security/IS8.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "7dc0aa8d54955ee6",
   "lastOpenFiles": [
+    "Semester2/information-security/IS8.md",
+    "_coverpage.md",
     "Semester2/pervasive-computing/PC2.md",
     "Semester2/interoperability/IO6.md",
     "Semester2/interoperability/IO7.md",
@@ -95,8 +97,6 @@
     "Semester1/software-development/SD14.md",
     "Semester1/software-development/SD13.md",
     "Semester1/software-development/SD12.md",
-    "Semester1/software-development/SD10.md",
-    "Semester1/software-development/SD9.md",
-    "Semester1/software-development/SD6.md"
+    "Semester1/software-development/SD10.md"
   ]
 }
