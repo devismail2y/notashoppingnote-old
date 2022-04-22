@@ -1,6 +1,0 @@
-# 
-
-## 
-
-Perbankan punya tim offensive?
-
