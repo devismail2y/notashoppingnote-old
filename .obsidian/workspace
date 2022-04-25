@@ -7,8 +7,12 @@
         "id": "7dc0aa8d54955ee6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Semester2/data-mining-and-data-warehouse/DM8.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Semester2/data-mining-and-data-warehouse/DM8.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +88,7 @@
   },
   "active": "7dc0aa8d54955ee6",
   "lastOpenFiles": [
+    "Semester2/data-mining-and-data-warehouse/DM8.md",
     "Semester2/information-security/IS8.md",
     "_coverpage.md",
     "Semester2/pervasive-computing/PC2.md",
@@ -91,7 +97,6 @@
     "Semester1/software-development/SD15.md",
     "Semester1/software-development/SD14.md",
     "Semester1/software-development/SD13.md",
-    "Semester1/software-development/SD12.md",
-    "Semester1/software-development/SD10.md"
+    "Semester1/software-development/SD12.md"
   ]
 }
