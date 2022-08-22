@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Semester3/Cloud/CL2.md",
+            "file": "Semester3/IoT Security/IoT2-.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester3/Cloud/CL2.md",
+                "file": "Semester3/IoT Security/IoT2-.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,10 +86,10 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "7dc0aa8d54955ee6",
+  "active": "589cd05655eb3212",
   "lastOpenFiles": [
-    "Semester3/Cloud/CL1.md",
     "Semester3/Cloud/CL2.md",
+    "Semester3/Cloud/CL1.md",
     "Semester2/interoperability/IO6.md",
     "Semester2/interoperability/IO5.md",
     "Semester2/interoperability/IO7.md",
