@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Semester3/Cloud/CL3.md",
+            "file": "Semester3/Blockchain/BC2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester3/Cloud/CL3.md",
+                "file": "Semester3/Blockchain/BC2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "7dc0aa8d54955ee6",
   "lastOpenFiles": [
+    "Semester3/IoT Security/IoT2.md",
+    "Semester3/IoT Security/Iot1.md",
+    "Semester3/Cloud/CL3.md",
     "Semester3/Cloud/CL2.md",
     "Semester3/Cloud/AWS Vocab List.md",
     "Semester3/Cloud/CL1.md",
     "Semester3/Blockchain/Intro.md",
     "Semester3/Blockchain/BC1.md",
-    "Semester3/IoT Security/IoT2-.md",
     "Semester2/interoperability/IO6.md",
-    "Semester2/interoperability/IO5.md",
-    "Semester2/interoperability/IO7.md",
-    "Semester2/interoperability/IO9.md"
+    "Semester2/interoperability/IO5.md"
   ]
 }
