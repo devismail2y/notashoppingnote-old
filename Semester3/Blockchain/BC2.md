@@ -21,3 +21,15 @@ Characteriscs of decentralization
 - Peer-to-peer network and open to anyone/low barier
 - Mining, open to anyone, but inevitable concentration of power often seen as undesirable
 - Updates to software, core developers trusted by community, have great power.
+
+Bitcoin;s key challenge
+- How to distribute consensus?
+- How to distribute scrooge coin?
+
+Distributed is slow because of consensus.
+
+Consensus protocols
+- How to create reliable decentralization?
+- Traditional motivation reliability in distributed system
+- Is very open to research.
+
