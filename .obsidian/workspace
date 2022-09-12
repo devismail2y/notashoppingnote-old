@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Semester3/Cloud/CL4.md",
+            "file": "Semester3/IoTSecurity/IoT2.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "def9ab471bea1189",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_sidebar.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209,
-    "collapsed": true
+    "width": 209
   },
   "right": {
     "id": "61d7dfbe1e000f68",
@@ -70,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester3/Cloud/CL4.md",
+                "file": "_sidebar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +98,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "7dc0aa8d54955ee6",
+  "active": "def9ab471bea1189",
   "lastOpenFiles": [
-    "Semester3/Cloud/CL3.md",
+    "Semester3/IoTSecurity/IoT3.md",
+    "_sidebar.md",
+    "Semester3/IoTSecurity/IoT1.md",
+    "Semester3/IoTSecurity/IoT2.md",
+    "_coverpage.md",
     "Semester3/Blockchain/BC2.md",
-    "Semester3/IoT Security/IoT2.md",
-    "Semester3/IoT Security/Iot1.md",
+    "Semester3/Cloud/CL3.md",
+    "Semester3/Cloud/CL4.md",
     "Semester3/Cloud/CL2.md",
-    "Semester3/Cloud/AWS Vocab List.md",
-    "Semester3/Cloud/CL1.md",
-    "Semester3/Blockchain/Intro.md",
-    "Semester3/Blockchain/BC1.md",
-    "Semester2/interoperability/IO6.md"
+    "Semester3/Cloud/AWS Vocab List.md"
   ]
 }

@@ -3,6 +3,12 @@
 * [Not A Shopping Note](/)
 * [Final Assignments](Final-Assignments.md)
 
+- IoT Security
+  - [A Brave New World](Semester3/IoTSecurity/IoT1.md)
+  - [Vulnerability Threat and Countermeasures](Semester3/IoTSecurity/IoT2.md)
+  - [Security Engineering for IoT Development](Semester3/IoTSecurity/IoT3.md)
+
+
 * Computer and Society
   * [Syllabus](Semester1/computer-and-society/Syllabus.md)
   * [The Hook Model](Semester1/computer-and-society/CS1.md)
